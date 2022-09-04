@@ -22,6 +22,10 @@ Oluwatoni Micro Finance Bank has realized that the conventional method of loan a
 1. LoanID= Unique Loan ID
 2. LoanStatus= (Target) Loan approved (Y/N)
 
+## Flowchart of the System
+![WhatsApp Image 2022-09-04 at 8 02 34 PM](https://user-images.githubusercontent.com/112688755/188331823-acd73759-42f9-419b-83e7-a5a72d14c49b.jpeg)
+
+
 
 
 
